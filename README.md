@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Bruno Alef👋
 
-<!--
-**Pedrodopai/Pedrodopai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working data analysis
+- 🌱 I’m currently learning SQL and database
+- 😁 I’m looking for help with data analysis and visualization projects
+- 📫 How to reach me: brunivida@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/Pedrodopai/github-readme-stats">
+
+  <img align="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrodopai&show_icons=true&theme=highcontrast&hide=stars,prs" />
+  <img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrodopai&layout=compact&show_icons=true&theme=highcontrast" />
+</a>
+
